@@ -9,7 +9,6 @@ public class NumberSearch {
     // be rounded to the nearest whole number, so the answer is 2. Only single digit numbers separated by spaces will be
     // used throughout the whole string (So this won’t ever be the case: hello44444 world). Each string will also have
     // at least one letter.
-
     private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
